@@ -1,0 +1,23 @@
+{
+  "name": "code-03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhaKam/A-project-for-practice-React-student-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhaKam/A-project-for-practice-React-student-/issues"
+  },
+  "homepage": "https://github.com/ZhaKam/A-project-for-practice-React-student-#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
